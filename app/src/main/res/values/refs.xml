@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="f2">146</drawable>
+    <drawable name="f3">149</drawable>
+    <drawable name="resu">113</drawable>
+    <drawable name="f4">152</drawable>
+    <drawable name="f5">155</drawable>
+    <drawable name="f6">158</drawable>
+    <drawable name="f7">161</drawable>
+    <drawable name="f1">164</drawable>
+    <drawable name="baseline_keyboard_arrow_left_black_18dp">18dp</drawable>
+</resources>
